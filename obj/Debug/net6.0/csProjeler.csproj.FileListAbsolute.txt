@@ -1,0 +1,15 @@
+D:\csProjeler\bin\Debug\net6.0\csProjeler.exe
+D:\csProjeler\bin\Debug\net6.0\csProjeler.deps.json
+D:\csProjeler\bin\Debug\net6.0\csProjeler.runtimeconfig.json
+D:\csProjeler\bin\Debug\net6.0\csProjeler.dll
+D:\csProjeler\bin\Debug\net6.0\csProjeler.pdb
+D:\csProjeler\obj\Debug\net6.0\csProjeler.csproj.AssemblyReference.cache
+D:\csProjeler\obj\Debug\net6.0\csProjeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\csProjeler\obj\Debug\net6.0\csProjeler.AssemblyInfoInputs.cache
+D:\csProjeler\obj\Debug\net6.0\csProjeler.AssemblyInfo.cs
+D:\csProjeler\obj\Debug\net6.0\csProjeler.csproj.CoreCompileInputs.cache
+D:\csProjeler\obj\Debug\net6.0\csProjeler.dll
+D:\csProjeler\obj\Debug\net6.0\refint\csProjeler.dll
+D:\csProjeler\obj\Debug\net6.0\csProjeler.pdb
+D:\csProjeler\obj\Debug\net6.0\csProjeler.genruntimeconfig.cache
+D:\csProjeler\obj\Debug\net6.0\ref\csProjeler.dll
