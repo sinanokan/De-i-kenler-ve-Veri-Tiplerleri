@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csProjeler\\csProjeler.csproj",
-      "projectName": "csProjeler",
-      "projectPath": "D:\\csProjeler\\csProjeler.csproj",
+      "projectUniqueName": "D:\\csProjeler\\Operatorler\\Operatorler.csproj",
+      "projectName": "Operatorler",
+      "projectPath": "D:\\csProjeler\\Operatorler\\Operatorler.csproj",
       "packagesPath": "C:\\Users\\okany\\.nuget\\packages\\",
-      "outputPath": "D:\\csProjeler\\obj\\",
+      "outputPath": "D:\\csProjeler\\Operatorler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\okany\\AppData\\Roaming\\NuGet\\NuGet.Config",
