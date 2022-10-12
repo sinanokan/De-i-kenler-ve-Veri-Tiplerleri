@@ -29,7 +29,7 @@ namespace oparetorler
             bool isCompleted = true;
 
             if(isSucces && isCompleted)
-                Console.WriteLine("Perfesct!");
+                Console.WriteLine("Perfect!");
 
             if(isSucces || isCompleted)
                 Console.WriteLine("Great!");
